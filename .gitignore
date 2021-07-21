@@ -13,3 +13,6 @@ repo
 **/out/**
 **/classes/**
 **/bin/**
+**/obj/**
+.vs
+**/.vs/**
