@@ -1,0 +1,15 @@
+target
+*.iws
+*.ipr
+*.iml
+.classpath
+.project
+.settings
+.springBeans
+repo
+.idea
+**/build/**
+.gradle
+**/out/**
+**/classes/**
+**/bin/**
