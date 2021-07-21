@@ -14,5 +14,6 @@ repo
 **/classes/**
 **/bin/**
 **/obj/**
-.vs
+.vs/**
 **/.vs/**
+
